@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elo2bear
 - 👀 I’m interested in WebDev & Gaming Dev
-- 🌱 I’m currently learning Python and Node.Js
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any Front end projects
 - 📫 How to reach me elouisevb@gmail.com
 
