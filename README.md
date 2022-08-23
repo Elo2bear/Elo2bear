@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Elo2bear
-- 👀 I’m interested in WebDev & Gaming Dev
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on any Front end projects
 - 📫 How to reach me elouisevb@gmail.com
 
-<!---
-Elo2bear/Elo2bear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Elouise Van biljon](https://user-images.githubusercontent.com/94161006/186117861-682dcad3-fcd2-41f7-8170-77d61a536a3d.png)
